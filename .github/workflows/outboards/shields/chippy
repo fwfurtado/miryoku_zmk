@@ -3,5 +3,5 @@
 
 outboard_repository=JonMuller/gerbers
 outboard_ref=main
-outboard_from=corne-choc-xiao/zmk_starter/view
-outboard_to=boards/shields/chipper
+outboard_from=corne-choc-xiao/zmk_starter/OLED
+outboard_to=boards/shields/chippy
